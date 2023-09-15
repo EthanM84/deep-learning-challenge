@@ -38,28 +38,3 @@ The Alphabet Soup's business team provided a CSV containing more than 34,000 org
   3. Use a different activation function
   4. All of item 1 to 3
   5. All of item 1 to 3, plus reducing the number of epoch
-
-## Summary
-While the attempts to optimize the model did not achieve the desired 75% accuracy rate, but it indeed increased the accuracy rate.
-
-### Initial Model
-![Original](https://github.com/sumiemma/deep-learning-challenge/assets/126445425/e3b52654-48df-4d48-b7f3-f7cb2f556eef)
-
-### First Optimization Attempt
-![First Attempt](https://github.com/sumiemma/deep-learning-challenge/assets/126445425/9f1340f1-a23d-4390-bb07-78315157fdae)
-
-### Second Optimization Attempt
-![Second Attempt](https://github.com/sumiemma/deep-learning-challenge/assets/126445425/a7761868-d876-41b4-829e-48e1c83e7c2f)
-
-### Third Optimization Attempt
-![Third Attempt](https://github.com/sumiemma/deep-learning-challenge/assets/126445425/a6ee058e-6615-4b68-9062-a8a9db00b983)
-
-### Fourth Optimization Attempt
-![Fourth Attempt](https://github.com/sumiemma/deep-learning-challenge/assets/126445425/3f80dd01-00d4-48e1-addc-0adf0c1dc4f7)
-
-### Final Optimization Attempt
-![Final Attempt](https://github.com/sumiemma/deep-learning-challenge/assets/126445425/9edfa052-d783-47da-ac23-6d6b35a4386e)
-
-From the screenshots shown above, we can see the accuracy rate increased from 72.44% of the initial model, to the 72.79% of the fifth optimization attempt.
-
-Some future optimization methods are to increase the amount of data, or to increase the feature variables of the existing data.
